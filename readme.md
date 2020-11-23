@@ -1,7 +1,7 @@
 # Projeto Urna Elêtronica.
 ## Projeto Feito no curso B7WEB.
 
-** Foi utilizado as seguintes tecnologias **
+_Foi utilizado as seguintes tecnologias_
 
 - [x] HTML.
 - [x] CSS.
