@@ -10,8 +10,6 @@ let numero = '';
 let votoBranco = true;
 let votos = [];
 
-
-
 function comecarEtapa() {
     let etapa = etapas[etapaAtual];
 
@@ -84,7 +82,6 @@ function clicou(n) {
             atualizarInterface();
         }
     }
-
 }
 
 function branco() {
